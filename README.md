@@ -8,7 +8,7 @@ A sleek and responsive web application that lets you **search for recipes** by n
 
 ---
 
-## ✨ Features
+## ✨ Features 
 
 🔍 **Search** for recipes by name  
 🎲 Get a **random recipe** suggestion  
