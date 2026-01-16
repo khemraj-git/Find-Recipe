@@ -2,7 +2,7 @@
 
 A modern, responsive web application that allows users to search for recipes by name or get random recipe suggestions from TheMealDB API. Discover culinary delights with an intuitive interface and beautiful design.
 
-![Recipe Finder Screenshot](./assects/webpage.png)
+![Recipe Finder Screenshot](./assects/page.png)
 
 ## Contributors
 
