@@ -4,6 +4,9 @@ A modern, responsive web application that allows users to search for recipes by 
 
 ![Recipe Finder Screenshot](./assects/page.png)
 
+## Live demo 
+- https://find-recipe-kk.vercel.app/
+
 ## Contributors
 
 - [khemraj-giri](https://github.com/khemraj-git)
